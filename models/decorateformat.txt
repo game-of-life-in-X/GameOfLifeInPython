@@ -1,0 +1,6 @@
+title
+ticks
+interval
+arraywidth
+arrayheight
+creatimage
