@@ -1,5 +1,7 @@
-# GameOfLifeInPython
+# Game of Life in Python
 A python implementation of Conway's Game of Life; It is designed with a custom tweakable model format and is primarily for testing out new model concepts.
+
+![Example gameplay of the game of life](https://i.imgur.com/vvd8Sns.png)
 
 ## Getting Started
 
@@ -33,3 +35,4 @@ This project has no license and is free to be used and edited by anyone within t
 ## Aknowledgements
 
 Inspiration from a similar implementation by ctjacobs - https://github.com/ctjacobs/game-of-life
+Banner created in Golly - http://golly.sourceforge.net/ 
