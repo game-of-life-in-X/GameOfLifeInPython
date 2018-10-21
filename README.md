@@ -35,4 +35,5 @@ This project has no license and is free to be used and edited by anyone within t
 ## Aknowledgements
 
 Inspiration from a similar implementation by ctjacobs - https://github.com/ctjacobs/game-of-life
+
 Banner created in Golly - http://golly.sourceforge.net/ 
