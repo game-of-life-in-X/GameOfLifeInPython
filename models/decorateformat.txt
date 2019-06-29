@@ -3,4 +3,4 @@ ticks
 interval
 arraywidth
 arrayheight
-creatimage
+createimage
